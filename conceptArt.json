@@ -1,0 +1,388 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 217,
+    "major": 5,
+    "minor": 4,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": true,
+    "projectUuid": "05c74a2c-cdfc-4d4d-a65f-7a33af2c219f",
+    "scaleMode": "nearest",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "conceptArt",
+    "description": "",
+    "author": "",
+    "windowWidth": 1280,
+    "windowHeight": 720,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Capa de pintura 1.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Capa de pintura 1.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/acee265e-7b22-40b1-b9bc-18b58c16b77e/resources/22faad0e0472b96fa913a165a23b58ee17f792acd7954d472ecac34e1171088a-Capa de pintura 1.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Capa de pintura 2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Capa de pintura 2.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/acee265e-7b22-40b1-b9bc-18b58c16b77e/resources/8530674078152847ab2f68222abe0fef3e4d3f10a9c5d4c8891a0bc2b26a8715-Capa de pintura 2.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Capa de pintura 3.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Capa de pintura 3.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/acee265e-7b22-40b1-b9bc-18b58c16b77e/resources/5c09d1a72ab3cf8377ac2be60abb3091748162c8d37cea9cd95cbc89d2168334-Capa de pintura 3.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/flor.jpg.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "flor.jpg.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/acee265e-7b22-40b1-b9bc-18b58c16b77e/resources/c85a3f59d2554fcc05155319f5041b9e755ba157c67d778374ec5c082a49e395-flor.jpg.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/roca.jpg.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "roca.jpg.PNG",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/acee265e-7b22-40b1-b9bc-18b58c16b77e/resources/11f6a3f9514d6a1777ceb0afa9396c1559637bf071255b9f2f04d389567928a0-roca.jpg.PNG",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Paramo_0001_tecnologiascreativaslci_a_wooden_red_door_on_a_field_at_noon_56833ca3-35dc-4f11-8c3a-c5f.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Paramo_0001_tecnologiascreativaslci_a_wooden_red_door_on_a_field_at_noon_56833ca3-35dc-4f11-8c3a-c5fec8fca16b.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/acee265e-7b22-40b1-b9bc-18b58c16b77e/resources/b04ef8cbab04d75ba17e4e8b0708a3b8bcaa6c082477c9c36b8f05983b7c6c0e-Paramo_0001_tecnologiascreativaslci_a_wooden_red_door_on_a_field_at_noon_56833ca3-35dc-4f11-8c3a-c5f.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Paramo_0003_tecnologiascreativaslci_surreal_illustration_in_the_style_remin_422c9462-7f8e-4a05-92be-.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Paramo_0003_tecnologiascreativaslci_surreal_illustration_in_the_style_remin_422c9462-7f8e-4a05-92be-b68b1f85c1e7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/acee265e-7b22-40b1-b9bc-18b58c16b77e/resources/a880f35e45bcabad6bb07031cb60d0e724ed78a8a998a6cda0e2c658bac60755-Paramo_0003_tecnologiascreativaslci_surreal_illustration_in_the_style_remin_422c9462-7f8e-4a05-92be-.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Paramo_0002_Layer-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Paramo_0002_Layer-8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/acee265e-7b22-40b1-b9bc-18b58c16b77e/resources/a5005b88ae7fffb3573a0721e879b8b103d31f0a9805bfddca364c2b8ceba38e-Paramo_0002_Layer-8.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Paramo_0008_Layer-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Paramo_0008_Layer-5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/acee265e-7b22-40b1-b9bc-18b58c16b77e/resources/d68b2e4364e6c74c8b7f7b0463c3ed1c651f4e499e53b8e0a999bbdc425ecb90-Paramo_0008_Layer-5.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Paramo_0005_Layer-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Paramo_0005_Layer-3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/acee265e-7b22-40b1-b9bc-18b58c16b77e/resources/3a5faf330d8f234f18c5e884417da7aa6e9ba3e2cbe4e53a57effe5a2f97423b-Paramo_0005_Layer-3.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Paramo_0006_Layer-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Paramo_0006_Layer-4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/acee265e-7b22-40b1-b9bc-18b58c16b77e/resources/8c623a806d1bfb2a963c9aa7ef1ee95825c66f2ac29d2366d747d3620f9b8689-Paramo_0006_Layer-4.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Paramo_0013_tecnologiascreativaslci_httpss.mj.runW4Y55AIQigg_httpss.mj.ru_4df4794a-40c8-4982-b6fb-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Paramo_0013_tecnologiascreativaslci_httpss.mj.runW4Y55AIQigg_httpss.mj.ru_4df4794a-40c8-4982-b6fb-158602967e4a_0.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/acee265e-7b22-40b1-b9bc-18b58c16b77e/resources/181646016f5ce9a465369105630880497c362d0d688b5ad13fa943f4833c92a3-Paramo_0013_tecnologiascreativaslci_httpss.mj.runW4Y55AIQigg_httpss.mj.ru_4df4794a-40c8-4982-b6fb-15.png",
+          "name": "cloud-project-resource"
+        }
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "personajeBase",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+          "acceleration": 400,
+          "allowDiagonals": true,
+          "angleOffset": 0,
+          "angularMaxSpeed": 180,
+          "customIsometryAngle": 30,
+          "deceleration": 800,
+          "ignoreDefaultControls": false,
+          "maxSpeed": 200,
+          "movementAngleOffset": 0,
+          "rotateObject": false,
+          "viewpoint": "TopDown"
+        }
+      ],
+      "animations": [
+        {
+          "name": "quieto",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.3,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 21,
+                        "y": 11
+                      },
+                      {
+                        "x": 41,
+                        "y": 11
+                      },
+                      {
+                        "x": 41,
+                        "y": 64
+                      },
+                      {
+                        "x": 21,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 21,
+                        "y": 11
+                      },
+                      {
+                        "x": 41,
+                        "y": 11
+                      },
+                      {
+                        "x": 41,
+                        "y": 64
+                      },
+                      {
+                        "x": 21,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "personajeBase"
+      }
+    ]
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/01_sumapaz"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}

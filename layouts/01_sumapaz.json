@@ -1,0 +1,1774 @@
+{
+  "b": 209,
+  "disableInputWhenNotFocused": true,
+  "mangledName": "_481_95sumaPaz",
+  "name": "01_sumaPaz",
+  "r": 209,
+  "standardSortMethod": true,
+  "stopSoundsOnStartup": true,
+  "title": "",
+  "v": 209,
+  "uiSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.14513286445533258,
+    "windowMask": false
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 7,
+      "height": 2220,
+      "keepRatio": true,
+      "layer": "",
+      "name": "pasto",
+      "persistentUuid": "f6597611-a288-467f-bfca-70cff09ad966",
+      "width": 4017,
+      "x": -1599,
+      "y": 48,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "09b406a5-21f7-45db-858e-e02087f9609a",
+      "width": 0,
+      "x": -10,
+      "y": 594,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "017a890d-6d79-40a9-82ea-70e1c68de04f",
+      "width": 0,
+      "x": 111,
+      "y": 634,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "82fdc92c-933a-43a8-b4e9-80bbfe916701",
+      "width": 0,
+      "x": 84,
+      "y": 583,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "36e05b41-b754-40d3-9bf0-4c71427e8956",
+      "width": 0,
+      "x": 1050,
+      "y": 330,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "d27c672a-7dc9-4b4f-ae95-3c3646e89b6f",
+      "width": 0,
+      "x": 828,
+      "y": 643,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 214,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "e51a6a77-c1c8-410e-9faa-c681ecff713d",
+      "width": 214,
+      "x": -48,
+      "y": -32,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 349,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "ed1c949c-a91a-4dfe-baeb-ed8afed4d71f",
+      "width": 349,
+      "x": 2072,
+      "y": 196,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 214,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "16cef85b-907c-4737-865f-0413b67e1f2f",
+      "width": 214,
+      "x": 1189,
+      "y": 278,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 214,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "dfd4b1c3-f5b0-48af-ad15-870e0e17aea2",
+      "width": 214,
+      "x": 184,
+      "y": 602,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 325,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbol",
+      "persistentUuid": "b477ef28-7f94-44d7-8a7f-27641837f0bf",
+      "width": 325,
+      "x": 915,
+      "y": 25,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "3919ef70-1afd-49b6-a6f6-36b3bfb8c5cb",
+      "width": 0,
+      "x": 138,
+      "y": 532,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 322,
+      "keepRatio": true,
+      "layer": "",
+      "name": "piedra",
+      "persistentUuid": "d443165c-a2a5-4ac9-a166-aed48b6a2028",
+      "width": 626,
+      "x": 70,
+      "y": -162,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 155,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "cd98c88f-35a4-4eff-9e33-0648ea42dc87",
+      "width": 155,
+      "x": 61,
+      "y": 55,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 4,
+      "height": 468,
+      "keepRatio": true,
+      "layer": "",
+      "name": "piedra",
+      "persistentUuid": "0ac7e7a3-7add-4285-a78b-200aadbaa518",
+      "width": 468,
+      "x": -236,
+      "y": 332,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 261,
+      "keepRatio": true,
+      "layer": "",
+      "name": "piedra",
+      "persistentUuid": "a6a32496-149d-4a84-aa0e-6cbd5b5316ee",
+      "width": 261,
+      "x": 1131,
+      "y": 111,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 265,
+      "keepRatio": true,
+      "layer": "",
+      "name": "piedra",
+      "persistentUuid": "81ab454a-cc14-470d-a39b-61a427830d8c",
+      "width": 235,
+      "x": 533,
+      "y": -77,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 220,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "0510e372-fffe-4eaf-b68b-ef0497b520dd",
+      "width": 416,
+      "x": -338,
+      "y": 595,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 275,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbol",
+      "persistentUuid": "b27495ce-8da3-48e7-a38a-8619ce590b47",
+      "width": 275,
+      "x": 405,
+      "y": 765,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 131,
+      "keepRatio": true,
+      "layer": "",
+      "name": "personajeBase",
+      "persistentUuid": "8cbe847c-6460-4521-91d2-ecb159c0ae65",
+      "width": 139,
+      "x": 418,
+      "y": 414,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 13,
+      "height": 389,
+      "keepRatio": true,
+      "layer": "",
+      "name": "sombra",
+      "opacity": 26,
+      "persistentUuid": "3f7449a0-85d5-4e9c-a839-606bae4b2dda",
+      "width": 410,
+      "x": 387,
+      "y": -55,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 13,
+      "height": 389,
+      "keepRatio": true,
+      "layer": "",
+      "name": "sombra",
+      "opacity": 26,
+      "persistentUuid": "36ea1765-0775-4c95-9220-1c8a0870971b",
+      "width": 488,
+      "x": -66,
+      "y": -29,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 21,
+      "height": 670,
+      "keepRatio": true,
+      "layer": "",
+      "name": "sombra",
+      "opacity": 26,
+      "persistentUuid": "df177b4e-4838-42e7-91d9-ec4f3df6e8fd",
+      "width": 789,
+      "x": -347,
+      "y": 386,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 21,
+      "height": 629,
+      "keepRatio": true,
+      "layer": "",
+      "name": "sombra",
+      "opacity": 26,
+      "persistentUuid": "25c764fe-ecdb-4ac9-b2e2-76e9283250b9",
+      "width": 494,
+      "x": 903,
+      "y": 55,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 10,
+      "height": 195,
+      "keepRatio": true,
+      "layer": "",
+      "name": "sombra",
+      "opacity": 26,
+      "persistentUuid": "01dc7c1b-5e62-4970-9553-7c64ad97dbc6",
+      "width": 237,
+      "x": 793,
+      "y": 653,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 10,
+      "height": 571,
+      "keepRatio": true,
+      "layer": "",
+      "name": "sombra",
+      "opacity": 26,
+      "persistentUuid": "406943a1-b6c2-4dbe-8dc8-d93eeb4fc86f",
+      "width": 292,
+      "x": 379,
+      "y": 747,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 134,
+      "keepRatio": true,
+      "layer": "",
+      "name": "puerta",
+      "persistentUuid": "23d14042-a9db-4256-b6bc-1dba35ec283f",
+      "width": 81,
+      "x": 442,
+      "y": 342,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 378,
+      "keepRatio": true,
+      "layer": "",
+      "name": "casa1",
+      "persistentUuid": "9c0d54de-7e58-4aa2-b95b-a486313cb8e9",
+      "width": 387,
+      "x": 1382,
+      "y": 791,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 4,
+      "height": 434,
+      "keepRatio": true,
+      "layer": "",
+      "name": "casa2",
+      "persistentUuid": "1da83fa9-09b1-4556-b7f2-2cb00b0c2ce4",
+      "width": 475,
+      "x": -907,
+      "y": 756,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 130,
+      "keepRatio": true,
+      "layer": "",
+      "name": "lago",
+      "persistentUuid": "cac67d9e-5ba5-4c85-8c69-f3e6dd8221a0",
+      "width": 636,
+      "x": -29,
+      "y": 1230,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1157,
+      "keepRatio": true,
+      "layer": "",
+      "name": "paramo",
+      "persistentUuid": "9b069ece-8215-475b-8591-d7d12079976e",
+      "width": 1432,
+      "x": -2228,
+      "y": -442,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1029,
+      "keepRatio": true,
+      "layer": "",
+      "name": "paramo1",
+      "persistentUuid": "0caea8a1-3da6-4ce5-8e45-3f511d971a6c",
+      "width": 1303,
+      "x": 1291,
+      "y": -249,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "flippedX": true,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "paramo",
+      "persistentUuid": "55a5390c-2be8-408c-838a-82828aaca114",
+      "width": 0,
+      "x": 1677,
+      "y": 37,
+      "zOrder": 20,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 1029,
+      "keepRatio": true,
+      "layer": "",
+      "name": "paramo1",
+      "persistentUuid": "10e8fb0d-bc01-493b-92dc-4da26d856a7f",
+      "width": 1303,
+      "x": -975,
+      "y": -347,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "paramo",
+      "persistentUuid": "36b3a6d8-13f6-4a13-aa7c-c84823021ec5",
+      "width": 0,
+      "x": -2262,
+      "y": 1257,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 53,
+      "height": 588,
+      "keepRatio": true,
+      "layer": "",
+      "name": "sombra",
+      "opacity": 26,
+      "persistentUuid": "fd2f3e0f-3a13-4120-be42-f87dce8344ba",
+      "width": 587,
+      "x": -978,
+      "y": 868,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 8,
+      "height": 1456,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "4720a884-7465-4e3a-938b-b0eb55bedc33",
+      "width": 927,
+      "x": -2162,
+      "y": 231,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "flippedX": true,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "paramo",
+      "persistentUuid": "74a415c8-d6e7-49a1-9e47-1e2c00f50a80",
+      "width": 0,
+      "x": 1833,
+      "y": 757,
+      "zOrder": 25,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 8,
+      "height": 927,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "f67bed30-f18d-4dac-89f8-00f5ce4ea3e4",
+      "width": 1099,
+      "x": 1653,
+      "y": 1329,
+      "zOrder": 30,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 3687,
+      "keepRatio": true,
+      "layer": "",
+      "name": "NewSprite2",
+      "persistentUuid": "214a095a-ae4f-43b9-bdfc-c090326c40b7",
+      "width": 9832,
+      "x": -4367,
+      "y": -1443,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 10,
+      "height": 182,
+      "keepRatio": true,
+      "layer": "",
+      "name": "sombra",
+      "opacity": 26,
+      "persistentUuid": "b5d735a0-5a80-4e08-9568-050e13cf08db",
+      "width": 527,
+      "x": -474,
+      "y": 26,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 175,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "2ff679d5-674c-4019-a7ed-60768440f5fd",
+      "width": 518,
+      "x": -477,
+      "y": -45,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 10,
+      "height": 182,
+      "keepRatio": true,
+      "layer": "",
+      "name": "sombra",
+      "opacity": 26,
+      "persistentUuid": "205a26fc-6b9a-4ad5-9096-9fe595bbaccb",
+      "width": 432,
+      "x": -874,
+      "y": 2,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 175,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "98a04508-4454-4312-b1d3-37e89a2fafc5",
+      "width": 477,
+      "x": -924,
+      "y": -69,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 10,
+      "height": 182,
+      "keepRatio": true,
+      "layer": "",
+      "name": "sombra",
+      "opacity": 26,
+      "persistentUuid": "c198104e-1e8f-4488-8951-c410fde11a86",
+      "width": 284,
+      "x": -1065,
+      "y": 69,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 2,
+      "height": 175,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "94e9536b-0cfc-40a1-954f-b0a2e5221755",
+      "width": 279,
+      "x": -1066,
+      "y": -2,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 3,
+      "height": 349,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "9251d928-de05-44ea-b44c-b0106a6f5a2a",
+      "width": 349,
+      "x": 2219,
+      "y": 886,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 53,
+      "height": 434,
+      "keepRatio": true,
+      "layer": "",
+      "name": "sombra",
+      "opacity": 26,
+      "persistentUuid": "2833f0bb-bd73-448b-92d5-53610a53df82",
+      "width": 484,
+      "x": 1322,
+      "y": 937,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 4,
+      "height": 297,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "aa60a411-5fc5-4551-9ce1-76b9f3dcfd0f",
+      "width": 309,
+      "x": 2112,
+      "y": 788,
+      "zOrder": 30,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 4,
+      "height": 297,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "a9297cfa-ae59-4a67-9060-f824200b1be3",
+      "width": 309,
+      "x": 1961,
+      "y": 887,
+      "zOrder": 30,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 4,
+      "height": 297,
+      "keepRatio": true,
+      "layer": "",
+      "name": "arbusto",
+      "persistentUuid": "24fcd4ce-8a18-42a5-b6b6-348f9a0d04ab",
+      "width": 309,
+      "x": 1862,
+      "y": 890,
+      "zOrder": 30,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "assetStoreId": "",
+      "height": 128,
+      "name": "pasto",
+      "texture": "Capa de pintura 1.PNG",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 128,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "arbusto",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Capa de pintura 2.PNG",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 26
+                      },
+                      {
+                        "x": 126,
+                        "y": 26
+                      },
+                      {
+                        "x": 126,
+                        "y": 127
+                      },
+                      {
+                        "x": 3,
+                        "y": 127
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "arbol",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Capa de pintura 3.PNG",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 1
+                      },
+                      {
+                        "x": 119,
+                        "y": 1
+                      },
+                      {
+                        "x": 119,
+                        "y": 123
+                      },
+                      {
+                        "x": 6,
+                        "y": 123
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "flor.jpg.PNG",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 34
+                      },
+                      {
+                        "x": 117,
+                        "y": 34
+                      },
+                      {
+                        "x": 117,
+                        "y": 95
+                      },
+                      {
+                        "x": 8,
+                        "y": 95
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "piedra",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "roca.jpg.PNG",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 22
+                      },
+                      {
+                        "x": 119,
+                        "y": 22
+                      },
+                      {
+                        "x": 119,
+                        "y": 118
+                      },
+                      {
+                        "x": 4,
+                        "y": 118
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "sombra",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 22
+                      },
+                      {
+                        "x": 61,
+                        "y": 22
+                      },
+                      {
+                        "x": 61,
+                        "y": 42
+                      },
+                      {
+                        "x": 1,
+                        "y": 42
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "puerta",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Paramo_0001_tecnologiascreativaslci_a_wooden_red_door_on_a_field_at_noon_56833ca3-35dc-4f11-8c3a-c5fec8fca16b.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 35,
+                        "y": 0
+                      },
+                      {
+                        "x": 35,
+                        "y": 58
+                      },
+                      {
+                        "x": 0,
+                        "y": 58
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "casa1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Paramo_0003_tecnologiascreativaslci_surreal_illustration_in_the_style_remin_422c9462-7f8e-4a05-92be-b68b1f85c1e7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 165,
+                        "y": 0
+                      },
+                      {
+                        "x": 165,
+                        "y": 161
+                      },
+                      {
+                        "x": 0,
+                        "y": 161
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "casa2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Paramo_0002_Layer-8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 137,
+                        "y": 0
+                      },
+                      {
+                        "x": 137,
+                        "y": 125
+                      },
+                      {
+                        "x": 0,
+                        "y": 125
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "lago",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Paramo_0008_Layer-5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 594,
+                        "y": 0
+                      },
+                      {
+                        "x": 594,
+                        "y": 118
+                      },
+                      {
+                        "x": 0,
+                        "y": 118
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "paramo",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Paramo_0005_Layer-3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 2
+                      },
+                      {
+                        "x": 1187,
+                        "y": 2
+                      },
+                      {
+                        "x": 1187,
+                        "y": 961
+                      },
+                      {
+                        "x": 2,
+                        "y": 961
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "paramo1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Paramo_0006_Layer-4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 1
+                      },
+                      {
+                        "x": 1078,
+                        "y": 1
+                      },
+                      {
+                        "x": 1078,
+                        "y": 888
+                      },
+                      {
+                        "x": 4,
+                        "y": 888
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Paramo_0013_tecnologiascreativaslci_httpss.mj.runW4Y55AIQigg_httpss.mj.ru_4df4794a-40c8-4982-b6fb-158602967e4a_0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 4000,
+                        "y": 0
+                      },
+                      {
+                        "x": 4000,
+                        "y": 1500
+                      },
+                      {
+                        "x": 0,
+                        "y": 1500
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "pasto"
+      },
+      {
+        "objectName": "puerta"
+      },
+      {
+        "objectName": "arbusto"
+      },
+      {
+        "objectName": "arbol"
+      },
+      {
+        "objectName": "NewSprite"
+      },
+      {
+        "objectName": "piedra"
+      },
+      {
+        "objectName": "sombra"
+      },
+      {
+        "objectName": "casa1"
+      },
+      {
+        "objectName": "casa2"
+      },
+      {
+        "objectName": "lago"
+      },
+      {
+        "objectName": "paramo"
+      },
+      {
+        "objectName": "paramo1"
+      },
+      {
+        "objectName": "NewSprite2"
+      }
+    ]
+  },
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "CentreCamera"
+          },
+          "parameters": [
+            "",
+            "personajeBase",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [
+        {
+          "defaultSize": true,
+          "defaultViewport": true,
+          "height": 0,
+          "viewportBottom": 1,
+          "viewportLeft": 0,
+          "viewportRight": 1,
+          "viewportTop": 0,
+          "width": 0
+        }
+      ],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    }
+  ],
+  "behaviorsSharedData": [
+    {
+      "name": "Animation",
+      "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "Effect",
+      "type": "EffectCapability::EffectBehavior"
+    },
+    {
+      "name": "Flippable",
+      "type": "FlippableCapability::FlippableBehavior"
+    },
+    {
+      "name": "Opacity",
+      "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Resizable",
+      "type": "ResizableCapability::ResizableBehavior"
+    },
+    {
+      "name": "Scale",
+      "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "TopDownMovement",
+      "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+    }
+  ]
+}
